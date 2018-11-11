@@ -1,0 +1,109 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1", Lider tv Azərbaycan
+https://streaming.kovalchuk.me/lider/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Azad Azərbaycan
+http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Azad HD Azərbaycan
+http://85.132.81.184:8080/atv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-shift="-2", Azad Azərbaycan (-2)
+http://85.132.81.184:8080/atv-2/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-shift="-4", Azad Azərbaycan (-4)
+http://85.132.81.184:8080/atv-4/index.m3u8
+#EXTINF:0 type="stream" channelId="1407", Space tv Azərbaycan
+https://streaming.kovalchuk.me/space/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Xəzər tv Azərbaycan
+http://i52.radyotelekomtv.com:1935/maksimtv/maksimtv/chunklist_w1597480748.m3u8
+#EXTINF:0 type="stream" channelId="641", AZ tv Azərbaycan
+https://streaming.kovalchuk.me/dvr_aztv/index.m3u8
+#EXTINF:0 type="stream" channelId="823", Mədəniyyət tv Azərbaycan
+https://streaming.kovalchuk.me/medeniyyet/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", ARB tv Azərbaycan
+https://streaming.kovalchuk.me/arb/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", ARB 24 tv Azərbaycan
+https://streaming.kovalchuk.me/24/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Kepez ARB tv Azərbaycan
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", ARB Ulduz tv Azərbaycan
+https://streaming.kovalchuk.me/ulduz/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", ARB Gunes
+https://streaming.kovalchuk.me/gunes/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", AraN ARB tv Azərbaycan
+https://www.youtube.com/watch?v=bz9_2QEQ5iI
+#EXTINF:0 type="stream" channelId="-1", Dalğa tv Azərbaycan
+https://streaming.kovalchuk.me/dalga/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Dünya tv Azərbaycan
+https://streaming.kovalchuk.me/dunya/index.m3u8
+#EXTINF:0 type="stream" channelId="1993", CBC tv Azərbaycan
+https://streaming.kovalchuk.me/cbc/index.m3u8
+#EXTINF:0 type="stream" channelId="136", MUZ tv Azərbaycan
+http://85.132.78.6:1935/live/muztv.stream/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Səs tv Azərbaycan
+http://i52.radyotelekomtv.com:1935/maksimtv/maksimtv/chunklist_w1597480748.m3u8
+#EXTINF:0 type="stream" channelId="-1", Star tv Türkiye
+https://www.youtube.com/watch?v=jWP3ntl64I4&list=PLXeT0RFf65f9bbr-MrNWR5BRTItHQnFny
+#EXTINF:0 type="stream" channelId="-1", Euro STAR tv Türkiye
+http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Show tv HD Türkiye
+https://www.youtube.com/watch?v=zKgW374Rd1g
+#EXTINF:0 type="stream" channelId="-1", Show tv Türk Türkiye
+https://www.youtube.com/watch?v=DA8ViIusbPY
+#EXTINF:0 type="stream" channelId="-1", Show Max tv Türkiye
+https://www.youtube.com/watch?v=QGKEr90CdLg
+#EXTINF:0 type="stream" channelId="-1", Kanal D Türkiye
+http://212.224.109.109/S2/HLS_LIVE/kanald/1000/prog_index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Kanal D Türkiye
+https://2122248082.dogannet.tv//S2/HLS_LIVE/kanaldnp/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", ATV HD Türkiye
+http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
+#EXTINF:0 type="stream" channelId="1056", TRT 1 HD Türkiye
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:0 type="stream" channelId="989", TRT Türk
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+#EXTINF:0 type="stream" channelId="1080", TRT Haber
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", TRT Müzik
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+#EXTINF:0 type="stream" channelId="1054", TRT Avaz
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", TRT Cocuk
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+#EXTINF:0 type="stream" channelId="3081", Haber Turk
+http://mn-l.mncdn.com/haberturk/haberturk2/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", DREAM TURK TV
+http://188.138.9.246/S2/HLS_LIVE/dreamturktv/index.m3u8
+#EXTINF:0 type="stream" channelId="978", DMAX (TURK)
+http://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b2128000_sltur.m3u8
+#EXTINF:0 type="stream" channelId="-1", KRAL ARABESK TV [HD]
+http://0ajuu84p.rocketcdn.com/kraltv_720/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", KRAL PERFORMANS TV [HD]
+http://0ajuu84p.rocketcdn.com/kraldijital-konsertv_720/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", KRAL POP AKUSTIK TV [HD]
+http://0ajuu84p.rocketcdn.com/kraldijital-akustiktv_720/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", KRAL POP KONSER TV [HD]
+http://0ajuu84p.rocketcdn.com/kraldijital-popkonsertv_720/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", KRAL WORLD TV [HD]
+http://stmpo0wa.rocketcdn.com/kralworldtv_720/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", KRAL TV HD
+http://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", POWER TURK TV HD
+http://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist_b2650000_sltur.m3u8
+#EXTINF:0 type="stream" channelId="3290", POWER TV HD
+http://livetv.powerapp.com.tr/powertv/powerhd.smil/chunklist_b2650000_sltur.m3u8
+#EXTINF:0 type="stream" channelId="67", TLC (Turk)
+http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:0 type="stream" channelId="-1", Узбекистан 24 HD
+http://watch.mtrk.uz:1935/24/24.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="168" tvg-shift="1", Индийское кино
+udp://@238.1.1.167:1234
+#EXTINF:0 type="stream" channelId="-1", Россия 24
+https://www.youtube.com/watch?v=K59KKnIbIaM
+#EXTINF:0 type="stream" channelId="-1", НТВ
+https://www.youtube.com/watch?v=G2eFjCnFgUE
+#EXTINF:0 type="stream" channelId="-1", Пятый канал
+https://www.youtube.com/watch?v=X81Jq5xBnVs
+#EXTINF:0 type="stream" channelId="-1", Мир 24
+https://www.youtube.com/watch?v=E9yAqp4VeWc
+#EXTINF:0 type="stream" channelId="-1", Москва 24
+https://www.youtube.com/watch?v=ElVaGlQSOzc
+#EXTINF:0 type="stream" channelId="-1", НАСТОЯЩЕЕ ВРЕМЯ ТВ
+https://www.youtube.com/watch?v=xKuKZj65Nao
